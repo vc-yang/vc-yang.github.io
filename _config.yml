@@ -4,8 +4,8 @@ email: vcy@u.northwestern.edu
 description: >
   Vicky Chuqiao Yang, PhD Candidate in Applied Mathematics at Northwestern University, also party of the data sciecence (IDEAS) program at Northwestern. Vicky works on mathematical models for social problems, including crime and invention in cities, and political elections. 
   
-baseurl: "http://www.vcyang.com"
-url: http://www.vcyang.com
+baseurl: "http://vcyang.com"
+url: http://vcyang.com
 github_username:  vicky20151
 # Build Settings
 sass:
