@@ -25,7 +25,7 @@ According to Poole and Rosenthal, creators of this method, the 1st dimension exp
     <title>
         Visualizing the US congress </title>
     <link rel="stylesheet" type="text/css" href="../files/vis_congress/style.css" />
-    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script src="https://d3js.org/d3.v3.min.js"></script>
   </head>
   <body>
       
