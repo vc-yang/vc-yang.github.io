@@ -1,0 +1,29 @@
+
+
+<aside>
+	<div class="container">
+		<nav>
+            <header>
+                <h3>Vicky Chuqiao Yang</h3>
+                
+
+            </header>
+			<ul>
+                
+				{% for page in site.pages %} {% if page.title %}
+				<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li> 
+				{% endif %} {% endfor %}
+                
+                    
+<!--
+				<li><a href="{{ "/demo" | prepend: site.baseurl }}">Demos</a></li>
+-->
+			</ul>
+			</li>
+			</ul>
+		</nav>
+	</div>
+</aside>
+
+
+ 
