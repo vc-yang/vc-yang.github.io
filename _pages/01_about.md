@@ -6,9 +6,9 @@ permalink: /about/
 
 <!--![bla](/files/vickyPhoto1.jpg)-->
 <img style="float: left; margin: 0px 30px 60px 0px;" src="../files/vickyPhoto1.jpg" width = "200"/>
-I am a PhD candidate in Applied Mathematics at Northwestern University, Evanston, IL. I work on mathematical models applied to social systems. Some topics of my work include crime in cities and dynamics of political elections. The methods I use is often a combination of differential equations, numerical simulations, and learning from data. Prior to joining Northwestern, I worked on mathematical models applied to heat transfer and microwave chemistry.  
+I am a PhD candidate in Applied Mathematics at Northwestern University, Evanston, IL. I work on mathematical models applied to social systems. Some topics of my work include crime in cities and dynamics of political elections. The methods I use are often a combination of differential equations, numerical simulations, and learning from data. Prior to joining Northwestern, I worked on mathematical models applied to heat transfer and microwave chemistry.  
 
-Outside of academics, I enjoys dance, photography, and Aikido. I co-founded and is the president of [NuTango](http://nutango.wix.com/nutango), Northwestern University's Argentine Tango Club. I am also the president of Society for Industrial and Applied Mathematics's Northwestern Chapter. 
+Outside of academics, I enjoy dance, photography, and Aikido. I co-founded and is the president of [NuTango](http://nutango.wix.com/nutango), Northwestern University's Argentine Tango Club. I am also the president of Society for Industrial and Applied Mathematics's Northwestern Chapter. 
 
 [CV (Oct 2016)](../files/Vicky_Yang_CV_Oct_2016.pdf)
 
