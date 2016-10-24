@@ -8,9 +8,8 @@ permalink: /vis_congress/
 # Visualizing the US congress
 -->
 
-This is a visualization I made of the congress member's positions, reduced to 2 dimensions, using the [DW-NOMINATE method](http://voteview.com/dwnomin.html) (Dynamic, Weighted, Nominal Three-Step Estimation). The method processes the congressional member's roll call records and estimates a congress member's ideaological positions in 2 dimensions. 
+This is a visualization I made of the congress member's positions, reduced to 2 dimensions, using the [DW-NOMINATE method](http://voteview.com/dwnomin.html) (Dynamic, Weighted, Nominal Three-Step Estimation). The method gives congress member's relative ideological positions through analyzing how often congress members vote with or against each other in the roll call records. The 1st dimension explains the vast majority of vote differences. According to Poole and Rosenthal, creators of this method, the 1st dimension can be interpreted as position on government intervention in the economy, also referred to as the 'liberal-conservative' scale. The second dimension can be interpreted as position on salient issues of the day, such as slavery, civil rights, and LGBT rights.
 
-According to Poole and Rosenthal, creators of this method, the 1st dimension explains most of the variance in data and can be interpreted as position in government intervention in the economy, also referred to as the 'liberal-conservative' scale. The second dimension can be interpreted as position on salient issues of the day, such as slavery and civil rights.
 
 ### How to use this visulaization
 * Use the slider bar to scroll over years
