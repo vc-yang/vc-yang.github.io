@@ -105,7 +105,7 @@ This is a visualization I made of the congress member's positions, reduced to 2 
         .attr("x", width)
         .attr("y", height - 6)
         //.attr("fontsize",  20)
-    .   text("1st dimension score (position on government intervention in economy)");
+        .text("DW-NOMINATE 1st dimension (position on government intervention in economy)");
     
         // add y label
         canvas.append("text")
@@ -114,7 +114,7 @@ This is a visualization I made of the congress member's positions, reduced to 2 
     .attr("y", 6)
     .attr("dy", ".75em")
     .attr("transform", "rotate(-90)")
-    .text("2nd dimension score (position on cross-cutting, salient issues of the day)");
+    .text("DW-NOMINATE 2nd dimension (position on cross-cutting, salient issues of the day)");
             
 
             function update(){
