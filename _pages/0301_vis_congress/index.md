@@ -213,4 +213,4 @@ This is a visualization I made of the congress member's positions, reduced to 2 
 ### More information
 The U.S. congress members’ roll call vote records are openly available. You can explore the data set and download it from [govtrack.us](https://www.govtrack.us/). 
 
-More information about the DW-NOMINATE method and data download can be found on the [voteview.com](http://voteview.com/). The data used in this visualization is downloaded from [This page](http://voteview.com/dwnomin.html). 
+More information about the DW-NOMINATE method and data download can be found on the [voteview.com](http://voteview.com/). The data used in this visualization is downloaded from [This page](http://voteview.com/dwnomin.html). You can find source code of this page [on my Github](https://github.com/vicky20151/vicky20151.github.io/blob/master/_pages/0301_vis_congress/index.md)
