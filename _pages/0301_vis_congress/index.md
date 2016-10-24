@@ -74,8 +74,8 @@ This is a visualization I made of the congress member's positions, reduced to 2 
             var x = 40
             var y = 20
             
-            var width = 800;
-            var height = 600;
+            var width = 600;
+            var height = 400;
             
             frame.attr('width', width + x); 
             frame.attr('height', height + y*2);
