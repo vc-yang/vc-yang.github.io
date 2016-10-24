@@ -14,7 +14,7 @@ According to Poole and Rosenthal, creators of this method, the 1st dimension exp
 
 ### How to use this visulaization
 * Use the slider bar to scroll over years
-* Each circle prepresents a congress member. The color represent party membership
+* Each circle prepresents a congress member. The colors represent party membership
 * Hover mouse over a circle to see name and state of the congress member. 
 
 
