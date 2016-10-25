@@ -8,7 +8,7 @@ permalink: /vis_congress/
 # Visualizing the US congress
 -->
 
-This is a visualization I made of the congress member's positions, reduced to 2 dimensions, using the [DW-NOMINATE method](http://voteview.com/dwnomin.html)
+This is a visualization I made of the congress member's positions, reduced to 2 dimensions, using the [DW-NOMINATE method](http://voteview.com/dwnomin.html).
 
 
 ### How to use this visulaization
@@ -210,14 +210,14 @@ This is a visualization I made of the congress member's positions, reduced to 2 
   </body>
 </html>
 
-
-### What are the axises? 
-The DW-NOMINATE 1st dimension (horizontal axis) can be interpreted as position on government intervention in the economy, also referred to as the 'liberal-conservative' scale. The 2nd dimension (vertical axis) can be interpreted as position on salient issues of the day, such as slavery, civil rights, and LGBT rights. The 1st dimension explains the vast majority of differences in voting behavior. (Poole and Rosenthal, more disucssion [here](http://voteview.com/dwnomin.html)). 
+### What are the axes? 
+The DW-NOMINATE 1st dimension (horizontal axis) can be interpreted as position on government intervention in the economy, also referred to as the 'liberal-conservative' scale. The 2nd dimension (vertical axis) can be interpreted as position on salient issues of the day, such as slavery, civil rights, and LGBT rights. The 1st dimension explains the vast majority of differences in voting behavior. (Poole and Rosenthal, more discussion [here](http://voteview.com/dwnomin.html)). 
 
 ### How are the positions calculated? 
-The [DW-NOMINATE method](http://voteview.com/dwnomin.html) gives congress member's relative ideological positions through analyzing how often congress members vote with or against each other in the roll call records. The DW-NOMINATE method is a scaling method -- it puts those with more similar voting behavior closer together, and vice versa. Its [Wikipedia page](https://en.wikipedia.org/wiki/NOMINATE_(scaling_method)) gives a good explaination of the method. 
+The [DW-NOMINATE method](http://voteview.com/dwnomin.html) gives congress member's relative ideological positions through analyzing how often congress members vote with or against each other in the roll call records. The DW-NOMINATE method is a scaling method -- it puts those with more similar voting behavior closer together, and vice versa. Its [Wikipedia page](https://en.wikipedia.org/wiki/NOMINATE_(scaling_method)) gives a good explanation of the method. 
 
 ### More information
 The U.S. congress members’ roll call vote records are openly available. You can explore the data set and download it from [govtrack.us](https://www.govtrack.us/). 
 
-More information about the DW-NOMINATE method and data download can be found on the [voteview.com](http://voteview.com/). The data used in this visualization is downloaded from [this page](http://voteview.com/dwnomin.html). You can find source code of this page [on my Github](https://github.com/vicky20151/vicky20151.github.io/blob/master/_pages/0301_vis_congress/index.md). 
+More information about the DW-NOMINATE method and data download can be found on the [voteview.com](http://voteview.com/). The data used in this visualization is downloaded from [this page](http://voteview.com/dwnomin.html). You can find source code of this page [on my Github](https://github.com/vicky20151/vicky20151.github.io/blob/master/_pages/0301_vis_congress/index.md).
+
