@@ -8,7 +8,7 @@ permalink: /vis_congress/
 # Visualizing the US congress
 -->
 
-This is a visualization I made of the congress member's positions, reduced to 2 dimensions, using the [DW-NOMINATE method](http://voteview.com/dwnomin.html).
+This is a visualization I made of the congress member's positions, reduced to 2 dimensions, using the [DW-NOMINATE method](https://en.wikipedia.org/wiki/NOMINATE_(scaling_method)).
 
 
 ### How to use this visulaization
