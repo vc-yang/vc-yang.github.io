@@ -5,10 +5,10 @@
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<title>Vicky Chuqiao Yang</title>
+	<title>Math modeling flowchart</title>
 
 	<link rel="stylesheet" href="/css/main.css">
-	<link rel="canonical" href="http://www.vcyang.com/blog/">
+	<link rel="canonical" href="http://www.vcyang.com/model_flowchart/">
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800,600' rel='stylesheet' type='text/css'>
 	<link href='https://fonts.googleapis.com/css?family=Muli:400,300' rel='stylesheet' type='text/css'>
 
@@ -55,13 +55,23 @@
  
 	<main>
 		<article>
-			<h2>Demos</h2>
+			<p>
+<br/>
+    
+</p>
 
-		<time>Nov 30, 2015</time>
-		<h3><a href="/jekyll/update/2015/11/30/welcome-to-jekyll.html">Welcome to Jekyll!</a></h3>
+<h2>Math modeling flowchart</h2>
+   
+    Published Dec 2016.
+
+I created this flowchart as a summary of the typical mathematical modeling process that I go through, as part of a talk for undergraduate mathematics students. You can find a high quality pdf file [here](/files/Model_flowchart/math_model_flowchart.pdf). 
+
+You are welcome to share and use it, please credit this page when you do so. 
 
 
-<p>subscribe <a href="/feed.xml">via RSS</a></p>
+<img style="float: left; margin: 0px 30px 60px 0px;" src="../files/Model_flowchart/math_model_flowchart.jpg" width = "600"/>
+
+
 
 
 		</article>
@@ -75,7 +85,7 @@
     	<footer>
     <small>
     
-    Last updated <time datetime="2016-12-23T20:00:56+08:00">December 2016</time> by Vicky. Made with Jekyll
+    Last updated <time datetime="2016-12-23T19:59:19+08:00">December 2016</time> by Vicky. Made with Jekyll
                         
     </small>
 </footer>

@@ -8,7 +8,7 @@
 	<title>Visualizing the US congress</title>
 
 	<link rel="stylesheet" href="/css/main.css">
-	<link rel="canonical" href="http://vcyang.com/vis_congress/">
+	<link rel="canonical" href="http://www.vcyang.com/vis_congress/">
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800,600' rel='stylesheet' type='text/css'>
 	<link href='https://fonts.googleapis.com/css?family=Muli:400,300' rel='stylesheet' type='text/css'>
 
@@ -32,6 +32,8 @@
 				<li><a href="/about/">About</a></li> 
 				  
 				<li><a href="/publications/">Publications</a></li> 
+				  
+				<li><a href="/model_flowchart/">Math modeling flowchart</a></li> 
 				      
 				<li><a href="/vis_congress/">Visualizing the US congress</a></li> 
 				      
@@ -63,16 +65,18 @@
     <!--
 # Visualizing the US congress
 -->
+<p>Published Nov 2016</p>
 
-<p>This is a visualization I made of the congress member’s positions, reduced to 2 dimensions, using the <a href="http://voteview.com/dwnomin.html">DW-NOMINATE method</a> (Dynamic, Weighted, Nominal Three-Step Estimation). The method processes the congressional member’s roll call records and estimates a congress member’s ideaological positions in 2 dimensions.</p>
+<p>Last updated Dec 2016</p>
 
-<p>According to Poole and Rosenthal, creators of this method, the 1st dimension explains most of the variance in data and can be interpreted as position in government intervention in the economy, also referred to as the ‘liberal-conservative’ scale. The second dimension can be interpreted as position on salient issues of the day, such as slavery and civil rights.</p>
+<p>This is a visualization I made of the congress member’s positions, reduced to 2 dimensions, using the <a href="https://en.wikipedia.org/wiki/NOMINATE_(scaling_method)">DW-NOMINATE method</a>.</p>
 
 <h3 id="how-to-use-this-visulaization">How to use this visulaization</h3>
 <ul>
-  <li>Use the slider bar to scroll over years</li>
-  <li>Each circle prepresents a congress member. The color represent party membership</li>
+  <li>Each circle prepresents a congress member</li>
+  <li>The colors represent party membership</li>
   <li>Hover mouse over a circle to see name and state of the congress member.</li>
+  <li>Use the slider bar to scroll over years</li>
 </ul>
 
 <html>
@@ -130,8 +134,8 @@
             var x = 40
             var y = 20
             
-            var width = 800;
-            var height = 600;
+            var width = 700;
+            var height = 500;
             
             frame.attr('width', width + x); 
             frame.attr('height', height + y*2);
@@ -161,7 +165,7 @@
         .attr("x", width)
         .attr("y", height - 6)
         //.attr("fontsize",  20)
-    .   text("1st dimension score (position on government intervention in economy)");
+        .text("DW-NOMINATE 1st dimension (position on government intervention in economy)");
     
         // add y label
         canvas.append("text")
@@ -170,7 +174,7 @@
     .attr("y", 6)
     .attr("dy", ".75em")
     .attr("transform", "rotate(-90)")
-    .text("2nd dimension score (position on cross-cutting, salient issues of the day)");
+    .text("DW-NOMINATE 2nd dimension (position on cross-cutting, salient issues of the day)");
             
 
             function update(){
@@ -265,10 +269,16 @@
   </body>
 </html>
 
-<h3 id="more-information">More information</h3>
-<p>The U.S. congress members’ roll call vote records are openly available. You can explore the data set and download it from <a href="https://www.govtrack.us/">govtrack.us</a>.</p>
+<h3 id="what-are-the-axes">What are the axes?</h3>
+<p>The DW-NOMINATE 1st dimension (horizontal axis) can be interpreted as position on government intervention in the economy, also referred to as the ‘liberal-conservative’ scale. The 2nd dimension (vertical axis) can be interpreted as position on salient issues of the day, such as slavery, civil rights, and LGBT rights. The 1st dimension explains the vast majority of differences in voting behavior. <br />
+(according to Poole and Rosenthal, more discussion <a href="http://voteview.com/dwnomin.html">here</a>).</p>
 
-<p>More information about the DW-NOMINATE method and data download can be found on the <a href="http://voteview.com/">voteview.com</a>. The data used in this visualization is downloaded from <a href="http://voteview.com/dwnomin.html">This page</a>.</p>
+<h3 id="how-are-the-positions-calculated">How are the positions calculated?</h3>
+<p>The <a href="http://voteview.com/dwnomin.html">DW-NOMINATE method</a> gives congress member’s relative ideological positions through analyzing how often congress members vote with or against each other in the roll call records. The DW-NOMINATE method is a scaling method – it puts those with more similar voting behavior closer together, and vice versa. <a href="https://en.wikipedia.org/wiki/NOMINATE_(scaling_method)">Its Wikipedia page</a> gives a good explanation of the method.</p>
+
+<h3 id="more-information">More information</h3>
+<p>The U.S. congress members’ roll call vote records are openly available. You can explore the data set and download it from <a href="https://www.govtrack.us/">govtrack.us</a>. More information about the DW-NOMINATE method and data download can be found on the <a href="http://voteview.com/">voteview.com</a>. The data used in this visualization is downloaded from <a href="http://voteview.com/dwnomin.html">this page</a>. You can find source code of this page on <a href="https://github.com/vicky20151/vicky20151.github.io/blob/master/_pages/0301_vis_congress/index.md">my Github</a>.</p>
+
 
 
 		</article>
@@ -282,7 +292,7 @@
     	<footer>
     <small>
     
-    Last updated <time datetime="2016-10-23T14:52:27-05:00">October 2016</time> by Vicky. Made with Jekyll
+    Last updated <time datetime="2016-12-23T20:00:56+08:00">December 2016</time> by Vicky. Made with Jekyll
                         
     </small>
 </footer>
