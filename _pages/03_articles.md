@@ -15,7 +15,7 @@ Here are some articles I generated as side projects. I share them here hoping th
 
 This is a visualization I made of the congress member's positions, reduced to 2 dimensions, using the [DW-NOMINATE method](https://en.wikipedia.org/wiki/NOMINATE_(scaling_method)).
 <div id="vis_cong">
- <img style="float: center; margin: 0px 30px 60px 0px;" src="../files/vis_congress/vis_screenshot.png" width = "600"/>
+ <img style="float: center; margin: 10px 10px 10px 0px;" src="../files/vis_congress/vis_screenshot.png" width = "600"/>
  </div>  
  
 -----
