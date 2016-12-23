@@ -7,7 +7,7 @@ permalink: /articles/
 <!-- ![flowchart](/files/Model_flowchart/math_model_flowchart.jpg)
 --> 
 
-Here are some articles I generated as side projects. I share them here hoping they can be of use to others. Please click the article titles for full information
+Here are some articles I generated as side projects related to my work in mathematical modeling or data. I share them here hoping they can be of use to others. Please click the article titles for full information
 
 You are welcome to share and use the information here. Please credit this website when doing so. 
 
