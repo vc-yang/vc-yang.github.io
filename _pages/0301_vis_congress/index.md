@@ -7,11 +7,11 @@ permalink: /vis_congress/
 <!--
 # Visualizing the US congress
 -->
-Published Nov 2016, developed as part of the IDEAS Focus Summer School on Data Visualization at Northwestern University.
+Published Nov 2016
 
 Last updated Dec 2016
 
-This is a visualization I made of the congress member's positions, reduced to 2 dimensions, using the [DW-NOMINATE method](https://en.wikipedia.org/wiki/NOMINATE_(scaling_method)).
+This is a visualization I made of the congress member's positions, reduced to 2 dimensions, using the [DW-NOMINATE method](https://en.wikipedia.org/wiki/NOMINATE_(scaling_method)). It is developed as part of the IDEAS Focus Summer School on Data Visualization at Northwestern University.
 
 ### How to use this visulaization
 * Each circle prepresents a congress member
