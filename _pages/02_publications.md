@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-* B.S. Tilley, V.C. Yang, J.C. Baiense, S. Evans (2016) ‘Frequency-dependent thermal resistance of vertical U-tube geothermal heat exchangers’, _Journal of Engineering Mathematics_, (2017): 1-20.
+* B.S. Tilley, V.C. Yang, J.C. Baiense, S. Evans (2017) ‘Frequency-dependent thermal resistance of vertical U-tube geothermal heat exchangers’, _Journal of Engineering Mathematics_, 1-20.
 
 * E.M. Moon, C. Yang, and V.V. Yakovlev (2015) 'Microwave-induced temperature felds in cylindrical samples of graphite powder -- experimental and modeling studies', _International Journal of Heat and Mass Transfer_, vol. 87, No 8, pp. 359-368.
 
