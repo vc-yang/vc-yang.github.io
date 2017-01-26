@@ -13,15 +13,14 @@ Outside of academics, I enjoy dance, photography, and Aikido. I co-founded and i
 
 
 ### News 
+* May 2017 - Present at SIAM Conference on Applications of Dynamical Systems, Snowbird, UT
+* April 2017 - Co-organize Chicago Area SIAM Student Conference, Chicago, IL.
 * Oct 2016 - Attend Grace Hopper Celebration of Women in Computing
-* Aug 2016 - Attend Communicating Science Chicago
-* July 2016 - Attend the SIAM Annual Meeting, Boston, MA.
-* June 2016 - Present at the Computational Social Science Conference, Evanston, IL. 
-* April 2016 - Co-organize Chicago Area SIAM Student Conference, Chicago, IL.
 
 
 ### Media 
-* In Northwestern University's Data Science Videos. [Video 1](https://youtu.be/9lh6TYon0_I) &#124; [Video 2](https://youtu.be/5by2WzQVx9U)
+* Vicky's research on city scaling featured in Northwestern News Network. [Video](https://youtu.be/eIiNyI5sWuk?t=18m38s)
+* Northwestern University's Data Science Videos. [Video 1](https://youtu.be/9lh6TYon0_I) &#124; [Video 2](https://youtu.be/5by2WzQVx9U)
 
 
 -----
