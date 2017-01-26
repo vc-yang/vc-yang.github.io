@@ -19,7 +19,7 @@ Outside of academics, I enjoy dance, photography, and Aikido. I co-founded and i
 
 
 ### Media 
-* Vicky's research on city scaling featured in Northwestern News Network. [Video](https://youtu.be/eIiNyI5sWuk?t=18m38s)
+* Featured in Northwestern News Network for research on city scaling laws. [Video](https://youtu.be/eIiNyI5sWuk?t=18m38s)
 * Northwestern University's Data Science Videos. [Video 1](https://youtu.be/9lh6TYon0_I) &#124; [Video 2](https://youtu.be/5by2WzQVx9U)
 
 
