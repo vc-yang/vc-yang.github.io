@@ -8,7 +8,7 @@ I am a PhD candidate in Applied Mathematics at Northwestern University, Evanston
 
 Outside of academics, I enjoy dance, photography, and Aikido. I co-founded and is the president of [NuTango](http://nutango.wix.com/nutango), Northwestern University's Argentine Tango Club. I am also the president of Society for Industrial and Applied Mathematics's Northwestern Chapter. 
 
-[CV (Oct 2016)](../files/Vicky_Yang_CV_March_17.pdf)
+[CV (March 2017)](../files/Vicky_Yang_CV_March_17.pdf)
 
 
 
