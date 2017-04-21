@@ -17,7 +17,7 @@ Outside of academics, I enjoy dance, photography, and Aikido. I co-founded and i
 * May 2017 - Present at SIAM Conference on Applications of Dynamical Systems, Snowbird, UT
 * April 2017 - Present at Northwestern Computation Research Day
 * April 2017 - Co-organize Chicago Area SIAM Student Conference, Chicago, IL. See Conference photos [here](https://goo.gl/photos/qsbvGHyJ8QANQHfCA)
-* March 2017 - Seven Minute Science Talk at Northwestern University
+* March 2017 - Give 'Seven Minute Science' Talk at Northwestern University
 
 
 ### Media 
