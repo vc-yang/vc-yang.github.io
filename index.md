@@ -20,7 +20,7 @@ Outside of academics, I enjoy dance, photography, and Aikido. I was the founding
 
 
 ### Media 
-* City scaling law research talk at Seven Minutes of Science Symposium. [[Video]](https://www.youtube.com/watch?v=Xs5ewFzNSYI)
+* Taking about cities and their scaling laws at Seven Minutes of Science Symposium. [[Video]](https://www.youtube.com/watch?v=Xs5ewFzNSYI)
 * Featured in Northwestern News Network for research on city scaling laws. [[Video]](https://youtu.be/eIiNyI5sWuk?t=18m49s)
 * Northwestern University's Data Science Videos. [[Video 1]](https://youtu.be/9lh6TYon0_I)   [[Video 2]](https://youtu.be/5by2WzQVx9U)
 
