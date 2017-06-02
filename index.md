@@ -17,7 +17,6 @@ Outside of academics, I enjoy dance, photography, and Aikido. I co-founded and w
 * June 2017 - Start data science internship at Airbnb
 * April 2017 - Present at Northwestern Computation Research Day
 * April 2017 - Organize the Chicago Area SIAM Student Conference, Chicago, IL. See Conference photos [here](https://goo.gl/photos/qsbvGHyJ8QANQHfCA)
-* March 2017 - Give 'Seven Minute Science' Talk at Northwestern University. Video coming soon
 
 
 ### Media 
