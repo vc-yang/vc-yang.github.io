@@ -8,12 +8,12 @@ I am a PhD candidate in Applied Mathematics at Northwestern University, Evanston
 
 Outside of academics, I enjoy dance, photography, and Aikido. I co-founded and is the president of [NuTango](http://nutango.wix.com/nutango), Northwestern University's Argentine Tango Club. I am also the president of Society for Industrial and Applied Mathematics's Northwestern Chapter. 
 
-[CV (May 2017)](../files/Vicky_Yang_CV_May_17.pdf)
+[CV (June 2017)](../files/Vicky_Yang_CV_June17.pdf)
 
 
 
 ### News 
-* May 2017 - Won the Red Sock Award for best poster presentation at SIAM Conference on Applications of Dynamical Systems, Snowbird, UT
+* May 2017 - Won the Red Sock Award for Best Poster Presentation at SIAM Conference on Applications of Dynamical Systems, Snowbird, UT
 * June 2017 - Start data science internship at Airbnb
 * April 2017 - Present at Northwestern Computation Research Day
 * April 2017 - Organize the Chicago Area SIAM Student Conference, Chicago, IL. See Conference photos [here](https://goo.gl/photos/qsbvGHyJ8QANQHfCA)
@@ -21,6 +21,7 @@ Outside of academics, I enjoy dance, photography, and Aikido. I co-founded and i
 
 
 ### Media 
+* City scaling law research talk at Seven Minutes of Science Symposium. [[Video]](https://www.youtube.com/watch?v=Xs5ewFzNSYI)
 * Featured in Northwestern News Network for research on city scaling laws. [[Video]](https://youtu.be/eIiNyI5sWuk?t=18m49s)
 * Northwestern University's Data Science Videos. [[Video 1]](https://youtu.be/9lh6TYon0_I)   [[Video 2]](https://youtu.be/5by2WzQVx9U)
 
