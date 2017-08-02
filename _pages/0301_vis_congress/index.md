@@ -11,14 +11,13 @@ Published Nov 2016
 
 Last updated Dec 2016
 
-This is a visualization I made of the congress member's positions, reduced to 2 dimensions, using the [DW-NOMINATE method](https://en.wikipedia.org/wiki/NOMINATE_(scaling_method)). It is developed as part of the IDEAS Focus Summer School on Data Visualization at Northwestern University.
+This is a visualization I made of the congress members' ideology positions, reduced to 2 dimensions, using the [DW-NOMINATE method](https://en.wikipedia.org/wiki/NOMINATE_(scaling_method)). It is developed as part of the IDEAS Focus Summer School on Data Visualization at Northwestern University.
 
 ### How to use this visulaization
-* Each circle prepresents a congress member
+* Each circle represents a congress member
 * The colors represent party membership
 * Hover mouse over a circle to see name and state of the congress member. 
 * Use the slider bar to scroll over years
-
 
 
 <html>
@@ -213,12 +212,12 @@ This is a visualization I made of the congress member's positions, reduced to 2 
 </html>
 
 ### What are the axes? 
-The DW-NOMINATE 1st dimension (horizontal axis) can be interpreted as position on government intervention in the economy, also referred to as the 'liberal-conservative' scale. The 2nd dimension (vertical axis) can be interpreted as position on salient issues of the day, such as slavery, civil rights, and LGBT rights. The 1st dimension explains the vast majority of differences in voting behavior.   
+The DW-NOMINATE 1st dimension (horizontal axis) can be interpreted as the position on government intervention in the economy, also referred to as the 'liberal-conservative' scale. The 2nd dimension (vertical axis) can be interpreted as the position on salient issues of the day, such as slavery, civil rights, and LGBT rights. The 1st dimension explains the vast majority of differences in voting behavior.   
 (according to Poole and Rosenthal, more discussion [here](http://voteview.com/dwnomin.html)). 
 
 ### How are the positions calculated? 
-The [DW-NOMINATE method](http://voteview.com/dwnomin.html) gives congress member's relative ideological positions through analyzing how often congress members vote with or against each other in the roll call records. The DW-NOMINATE method is a scaling method -- it puts those with more similar voting behavior closer together, and vice versa. [Its Wikipedia page](https://en.wikipedia.org/wiki/NOMINATE_(scaling_method)) gives a good explanation of the method. 
+The [DW-NOMINATE method](http://voteview.com/dwnomin.html) gives Congress member's relative ideological positions through analyzing how often Congress members vote with or against each other in the roll call records. The DW-NOMINATE method is a scaling method -- it puts those with more similar voting behavior closer together, and vice versa. [Its Wikipedia page](https://en.wikipedia.org/wiki/NOMINATE_(scaling_method)) gives a good explanation of the method. 
 
 ### More information
-The U.S. congress members’ roll call vote records are openly available. You can explore the data set and download it from [govtrack.us](https://www.govtrack.us/). More information about the DW-NOMINATE method and data download can be found on the [voteview.com](http://voteview.com/). The data used in this visualization is downloaded from [this page](http://voteview.com/dwnomin.html). You can find source code of this page on [my Github](https://github.com/vicky20151/vicky20151.github.io/blob/master/_pages/0301_vis_congress/index.md).
+The U.S. Congress members’ roll call vote records are openly available. You can explore the data set and download it from [govtrack.us](https://www.govtrack.us/). More information about the DW-NOMINATE method and data download can be found on the [voteview.com](http://voteview.com/). The data used in this visualization is downloaded from [this page](http://voteview.com/dwnomin.html). This visualization is developed using D3. If youa re interested in making similar visualizations, you are welcome to download source code of this page on [my Github](https://github.com/vicky20151/vicky20151.github.io/blob/master/_pages/0301_vis_congress/index.md).
 
