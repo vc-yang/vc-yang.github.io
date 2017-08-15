@@ -9,9 +9,9 @@ permalink: /vis_congress/
 -->
 Published Nov 2016
 
-Last updated Dec 2016
+Last updated Aug 2017
 
-This is a visualization I made of the congress members' ideology positions, reduced to 2 dimensions, using the [DW-NOMINATE method](https://en.wikipedia.org/wiki/NOMINATE_(scaling_method)). It is developed as part of the IDEAS Focus Summer School on Data Visualization at Northwestern University.
+This is a interactive visualization I made of the congress members' ideology positions, reduced to 2 dimensions, using the [DW-NOMINATE method](https://en.wikipedia.org/wiki/NOMINATE_(scaling_method)). It is developed as part of the IDEAS Focus Summer School on Data Visualization at Northwestern University.
 
 ### How to use this visulaization
 * Each circle represents a congress member
@@ -219,5 +219,5 @@ The DW-NOMINATE 1st dimension (horizontal axis) can be interpreted as the positi
 The [DW-NOMINATE method](http://voteview.com/dwnomin.html) gives Congress member's relative ideological positions through analyzing how often Congress members vote with or against each other in the roll call records. The DW-NOMINATE method is a scaling method -- it puts those with more similar voting behavior closer together, and vice versa. [Its Wikipedia page](https://en.wikipedia.org/wiki/NOMINATE_(scaling_method)) gives a good explanation of the method. 
 
 ### More information
-The U.S. Congress members’ roll call vote records are openly available. You can explore the data set and download it from [govtrack.us](https://www.govtrack.us/). More information about the DW-NOMINATE method and data download can be found on the [voteview.com](http://voteview.com/). The data used in this visualization is downloaded from [this page](http://voteview.com/dwnomin.html). This visualization is developed using D3. If youa re interested in making similar visualizations, you are welcome to download source code of this page on [my Github](https://github.com/vicky20151/vicky20151.github.io/blob/master/_pages/0301_vis_congress/index.md).
+The U.S. Congress members’ roll call vote records are openly available. You can explore the data set and download it from [govtrack.us](https://www.govtrack.us/). More information about the DW-NOMINATE method and data download can be found on the [voteview.com](http://voteview.com/). The data used in this visualization is downloaded from [this page](http://voteview.com/dwnomin.html). This interactive visualization is developed using [D3](https://d3js.org/). If you are interested in making similar visualizations, you are welcome to download the source code of this page on [my Github](https://github.com/vc-yang/vc-yang.github.io/tree/master/_pages/0301_vis_congress).
 
