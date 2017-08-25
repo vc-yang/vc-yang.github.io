@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<img style="float: left; margin: 0px 30px 60px 0px;" src="../files/vickyPhoto1.jpg" width = "200"/>
+<img style="float: left; margin: 0px 30px 60px 0px;" src="../files/vcyang_photo_1707.jpg" width = "200"/>
 I am a Ph.D. candidate in Applied Mathematics at Northwestern University. I strive to uncover the simplicity behind complex issues of human society. Recently, I work on understanding the mechanisms behind increased crime rates in bigger cities, and polarization of political parties. 
 
 My approach to these highly complex problems is to build simple, mechanistic models starting with indisputable concepts from physics (e.g. conservation laws); and firmly-established social science findings (e.g.the Strength of Weak Ties). In addition to being rigorous, I want my theories to be testable by real-world observations. So I build with practicality in mind and gather data (e.g. city crime rates and Congress voting records) to validate my theories.  I have worked closely with social scientists, physicists, and mathematicians. If you are interested in a collaboration, please don't hesitate to reach out. 
