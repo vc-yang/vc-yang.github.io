@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-My paper on urban scaling laws is currently under review at _Nature Human Behavior_, and my project on the polarization of political parties is in preparation for publication. Hopefully, they will appear here soon. 
+My paper on urban scaling laws is currently under review, and my project on the polarization of political parties is in preparation for publication. Hopefully, they will appear here soon. 
 
 Prior to joining Northwestern as a PhD student, I built mathematical models applied to heat transfer and microwave chemistry as an undergraduate. The following are some of this work published in peer-reviewed journals. 
 
