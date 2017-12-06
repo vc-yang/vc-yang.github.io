@@ -12,18 +12,24 @@ Outside of academics, I enjoy dance, photography, and Aikido. I was the founding
 
 If you are looking for my d3 visualization of US Congress ideology, it's [here](http://www.vcyang.com/vis_congress/).
 
-### News 
-* Oct 2017 - Attend the Grace Hopper Celebration for Women in Computing
-* May 2017 - Won the Red Sock Award for Best Poster Presentation at SIAM Conference on Applications of Dynamical Systems, Snowbird, UT
-* June - Sept 2017 - Data science internship at Airbnb
-* April 2017 - Present at Northwestern Computation Research Day
-* April 2017 - Organize the Chicago Area SIAM Student Conference, Chicago, IL. See conference photos [here](https://goo.gl/photos/qsbvGHyJ8QANQHfCA)
-
 
 ### Media 
 * I gave a talk at the [Seven Minutes of Science Symposium](http://rsg.northwestern.edu/w2017.html) about urban scaling laws and the "reasoning from first principles" approach. [[Talk Video]](https://www.youtube.com/watch?v=Xs5ewFzNSYI)
 * Northwestern News Network featured my research on urban scaling laws. [[Interview Video]](https://youtu.be/eIiNyI5sWuk?t=18m49s)
 * Northwestern University's Data Science Videos featured my work in [[Video 1]](https://youtu.be/9lh6TYon0_I). In [[Video 2]](https://youtu.be/5by2WzQVx9U), I shared my view on two types of data science.
+
+
+
+### News 
+* Dec 2017: Paper on arXiv: [The origin of urban productivity scaling laws](http://arxiv.org/abs/1712.00476). Using a math model, we explain why bigger cities are more productive and more susceptible to crime at the same time
+* Jan 2018: Attend Dynamics Days US in Denver, CO, and presenting my research about political polarization
+* Oct 2017: Paper on arXiv:  [Do two parties represent the US? Clustering analysis of US public ideology](http://arxiv.org/abs/1710.09347). My undergraduate students, Louisa Lee and Siyu Zhang answered if adding more political parties in US would help represent the public's ideology better
+* Oct 2017: Attend the Grace Hopper Celebration for Women in Computing
+* May 2017: Won the Red Sock Award for Best Poster Presentation for my model of political polarization at SIAM Conference on Applications of Dynamical Systems, Snowbird, UT
+* June - Sept 2017: Data science internship at Airbnb
+* April 2017: Present my urban scaling research at Northwestern Computation Research Day
+* April 2017: Organize the Chicago Area SIAM Student Conference. See conference photos [here](https://goo.gl/photos/qsbvGHyJ8QANQHfCA)
+
 
 
 -----
