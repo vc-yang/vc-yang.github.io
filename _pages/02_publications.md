@@ -6,7 +6,9 @@ permalink: /publications/
 
 My paper my project on the polarization of political parties is in preparation for publication. Hopefully, they will appear here soon. 
 
-* **V.C. Yang** , A.V. Papachristos, D.M. Abrams, 'The origin of urban productivity scaling laws: mathematical model and new empirical evidence,' under review [[Pre-print]](http://arxiv.org/abs/1712.00476).
+My work on modeling large scale human behavior: 
+
+* **V.C. Yang** , A.V. Papachristos, D.M. Abrams, 'The origin of urban productivity scaling laws: mathematical model and new empirical evidence,' under review. [[Pre-print]](http://arxiv.org/abs/1712.00476).
 
 * L. Lee, S. Zhang, **V.C. Yang** , 'Do two parties represent the US? Clustering analysis of US public ideology survey,' under review. [[Pre-print]](arxiv.org/abs/1710.09347). 
 
