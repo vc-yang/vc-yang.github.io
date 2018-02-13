@@ -11,7 +11,7 @@ Published Nov 2016
 
 Last updated Aug 2017
 
-This is a interactive visualization I made of the congress members' ideology positions, reduced to 2 dimensions, using the [DW-NOMINATE method](https://en.wikipedia.org/wiki/NOMINATE_(scaling_method)). It is developed as part of the IDEAS Focus Summer School on Data Visualization at Northwestern University.
+This is a interactive visualization I made of the congress members' ideology positions, reduced to 2 dimensions, using the [DW-NOMINATE method](https://en.wikipedia.org/wiki/NOMINATE_(scaling_method)). This visualiztaion is developed as part of the IDEAS Focus Summer School on Data Visualization at Northwestern University.
 
 ### How to use this visulaization
 * Each circle represents a congress member
