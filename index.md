@@ -27,7 +27,7 @@ If you are looking for my d3 visualization of US Congress ideology, it's [here](
 * Dec 2017: Paper on arXiv: [The origin of urban productivity scaling laws](http://arxiv.org/abs/1712.00476). A math model that explains why bigger cities are more productive and more susceptible to crime at the same time
 * Oct 2017: Paper on arXiv:  [Do two parties represent the US? Clustering analysis of US public ideology](http://arxiv.org/abs/1710.09347). My undergraduate students, Louisa Lee and Siyu Zhang answered if adding more political parties in the US would help represent the public's ideology better
 * Oct 2017: Attend the Grace Hopper Celebration for Women in Computing
-* June - Sept 2017: Data science internship at Airbnb=
+* June - Sept 2017: Data science internship at Airbnb
 * May 2017: Won the Red Sock Award for Best Poster Presentation for my model of political polarization at SIAM Conference on Applications of Dynamical Systems, Snowbird, UT
 * April 2017: Organize the Chicago Area SIAM Student Conference. See conference photos [here](https://goo.gl/photos/qsbvGHyJ8QANQHfCA)
 
