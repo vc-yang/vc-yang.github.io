@@ -4,7 +4,7 @@ title: About
 ---
 
 <img style="float: left; margin: 0px 30px 30px 0px;" src="../files/vcyang_photo_1708.jpg" width = "200"/>
-I am a Ph.D. candidate in Applied Mathematics at Northwestern University. I use mathematical tools to uncover the simplicity behind complex phenomena of human society. Some topics of my work include crimes in cities and polarization of political parties. My approach is to build mechanistic models from first principles and to confront them with real-world data. I work closely with social scientists, physicists, and mathematicians.
+I am a Ph.D. candidate in Applied Mathematics at Northwestern University. I use mathematical tools to uncover the simplicity behind complex phenomena of human society. Some topics of my work include crimes in cities and polarization of political parties. My approach is to build mechanistic models from first principles and to confront them with real-world data. I work closely with social scientists, physicists, and mathematicians. In fall 2018, I will join the [Santa Fe Institute](https://www.santafe.edu) as an Omidyar Fellow.
 
 Outside of academics, I enjoy dance, photography, and Aikido. I was the founding president of [NuTango](http://nutango.wix.com/nutango), Northwestern University's Argentine Tango Club. I was also the 2016-17 president of Society for Industrial and Applied Mathematics Northwestern Chapter. 
 
@@ -20,6 +20,9 @@ If you are looking for my d3 visualization of US Congress ideology, it's [here](
 
 
 ### News 
+* April 2018: Participate in the Data Visualization Competition at Northwestern University's computational research day
+* March 2018: Attend the JSMF-SFI Postdocs in Complexity Conference in Santa Fe, NM
+* Feb 2018: Accept offer to join the Santa Fe Institute as an Omidyar Fellow! 
 * Jan 2018: Present my work on political party polarization at Dynamics Days US
 * Dec 2017: Paper on arXiv: [The origin of urban productivity scaling laws](http://arxiv.org/abs/1712.00476). A math model that explains why bigger cities are more productive and more susceptible to crime at the same time
 * Oct 2017: Paper on arXiv:  [Do two parties represent the US? Clustering analysis of US public ideology](http://arxiv.org/abs/1710.09347). My undergraduate students, Louisa Lee and Siyu Zhang answered if adding more political parties in the US would help represent the public's ideology better
