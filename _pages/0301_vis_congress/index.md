@@ -9,7 +9,7 @@ permalink: /vis_congress/
 -->
 Published Nov 2016
 
-Last updated March 2018
+Last updated April 2018
 
 This is a interactive visualization I made of the congress members' ideology positions, reduced to 2 dimensions, using the [DW-NOMINATE method](https://en.wikipedia.org/wiki/NOMINATE_(scaling_method)). This visualiztaion is developed as part of the IDEAS Focus Summer School on Data Visualization at Northwestern University.
 
@@ -46,7 +46,7 @@ This is a interactive visualization I made of the congress members' ideology pos
 
       
       <!-- add legend as an image -->
-      <img src="../files/vis_congress/legend2.jpg" style="width:556px;height:52px;">
+      <img src="../files/vis_congress/legend3.jpg" style="width:556px;height:52px;">
 
       
     <script>
