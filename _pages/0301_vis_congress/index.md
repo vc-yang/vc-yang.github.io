@@ -46,7 +46,7 @@ This is a interactive visualization I made of the congress members' ideology pos
 
       
       <!-- add legend as an image -->
-      <img src="../files/vis_congress/legend3.jpg" style="width:556px;height:52px;">
+      <img src="../files/vis_congress/legend3.jpg" style="width:717px;height:60px;">
 
       
     <script>
