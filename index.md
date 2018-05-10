@@ -20,7 +20,7 @@ If you are looking for my d3 visualization of US Congress ideology, it's [here](
 
 
 ### News 
-* April 2018: Participate in the Data Visualization Competition at Northwestern University's computational research day
+* April 2018: Won the Grand Prize in interactive data visualization at Northwestern University's Computational Research Day, for [*Visualizing the US Congress*](http://www.vcyang.com/vis_congress/)
 * March 2018: Attend the JSMF-SFI Postdocs in Complexity Conference in Santa Fe, NM
 * Feb 2018: Accept offer to join the Santa Fe Institute as an Omidyar Fellow! 
 * Jan 2018: Present my work on political party polarization at Dynamics Days US
