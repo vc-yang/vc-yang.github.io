@@ -8,7 +8,7 @@ I am a Ph.D. candidate in Applied Mathematics at Northwestern University. I use 
 
 Outside of academics, I enjoy dance, photography, and Aikido. I was the founding president of [NuTango](http://nutango.wix.com/nutango), Northwestern University's Argentine Tango Club. I was also the 2016-17 president of Society for Industrial and Applied Mathematics Northwestern Chapter. 
 
-[CV (Jan 2018)](../files/VC_Yang_CV_Jan_2018.pdf)
+[CV (July 2018)](../files/VC_Yang_CV_July_2018.pdf)
 
 If you are looking for my d3 visualization of US Congress ideology, it's [here](http://www.vcyang.com/vis_congress/).
 
