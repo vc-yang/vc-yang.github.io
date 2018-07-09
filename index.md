@@ -21,7 +21,7 @@ If you are looking for my interactive visualization of US Congress ideology, it'
 
 ### News 
 * July 2018: Attend and volunteer at the International Conference on Computational Social Science (IC2S2). I chair the Sunday session on politics. 
-* July 2018: [Political clustering paper](http://arxiv.org/abs/1710.09347) updated on arXiv
+* June 2018: [Political clustering paper](http://arxiv.org/abs/1710.09347) updated on arXiv
 * May 2018: Organize the inaugural [NICO research jam](https://www.nico.northwestern.edu/news-events/events/?eid=533417)
 * May 2018: Judge Chicago highschools' science projects at Northwestern Highschool Project Showcase
 * April 2018: Won the Grand Prize in interactive data visualization at Northwestern University's Computational Research Day, for [*Visualizing the US Congress*](http://www.vcyang.com/vis_congress/)
