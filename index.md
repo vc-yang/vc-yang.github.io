@@ -10,7 +10,7 @@ Outside of academics, I enjoy dance, photography, and Aikido. I was the founding
 
 [CV (July 2018)](../files/VC_Yang_CV_July_2018.pdf)
 
-If you are looking for my interactive3 visualization of US Congress ideology, it's [here](http://www.vcyang.com/vis_congress/).
+If you are looking for my interactive visualization of US Congress ideology, it's [here](http://www.vcyang.com/vis_congress/).
 
 
 ### Media 
