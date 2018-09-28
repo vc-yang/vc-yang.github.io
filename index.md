@@ -4,11 +4,11 @@ title: About
 ---
 
 <img style="float: left; margin: 0px 30px 30px 0px;" src="../files/vcyang_photo_1708.jpg" width = "200"/>
-I am a Ph.D. candidate in Applied Mathematics at Northwestern University. I use mathematical tools to uncover the simplicity behind complex phenomena of human society. Some topics of my work include crimes in cities and polarization of political parties. My approach is to build mechanistic models from first principles and to confront them with real-world data. I work closely with social scientists, physicists, and mathematicians. In September 2018, I will join the [Santa Fe Institute](https://www.santafe.edu) as an Omidyar Fellow.
+I am an Omidyar Fellow at the Santa Fe Institute. I use mathematical tools to uncover the simplicity behind complex phenomena of human society. Some topics of my work include crimes in cities and polarization of political parties. My approach is to build mechanistic models from first principles and to confront them with real-world data. I work closely with social scientists, physicists, and mathematicians. I received my PhD in applied in Applied Mathematics from Northwestern University. 
 
 Outside of academics, I enjoy dance, photography, and Aikido. I was the founding president of [NuTango](http://nutango.wix.com/nutango), Northwestern University's Argentine Tango Club. I was also the 2016-17 president of the Society for Industrial and Applied Mathematics Northwestern Chapter. 
 
-[CV (July 2018)](../files/VC_Yang_CV_July_2018.pdf)
+[CV (Sept 2018)](../files/VC_Yang_CV_Sept_2018.pdf)
 
 If you are looking for my interactive visualization of US Congress ideology, it's [here](http://www.vcyang.com/vis_congress/).
 
@@ -20,6 +20,7 @@ If you are looking for my interactive visualization of US Congress ideology, it'
 
 
 ### News 
+* Sept 2018: Start working at Santa Fe Institute
 * Aug 2018: Pass my dissertation defence! 
 * July 2018: Attend and volunteer at the International Conference on Computational Social Science (IC2S2). I chair two sessions, politics and science of science
 * June 2018: [Political clustering paper](http://arxiv.org/abs/1710.09347) updated on arXiv
