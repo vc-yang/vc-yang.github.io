@@ -20,6 +20,7 @@ If you are looking for my interactive visualization of US Congress ideology, it'
 
 
 ### News 
+* Sept 2019: [My new paper](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.100.032306) appeared on *Physical Review E*, explaining why different crimes scale differently with city size, and what these differences tell us about the origin of urban scaling laws 
 * Sept 2018: Start working at Santa Fe Institute
 * Aug 2018: Pass my dissertation defence! 
 * July 2018: Attend and volunteer at the International Conference on Computational Social Science (IC2S2). I chair two sessions, politics and science of science
