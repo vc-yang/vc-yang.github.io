@@ -4,7 +4,7 @@ title: About
 ---
 
 <img style="float: left; margin: 0px 30px 30px 0px;" src="../files/vcyang_photo_1708.jpg" width = "200"/>
-I am an Omidyar Fellow at the Santa Fe Institute. I use mathematical tools to uncover the simplicity behind complex phenomena of human society. Some topics of my work include crimes in cities and polarization of political parties. My approach is to build mechanistic models from first principles and to confront them with real-world data. I work closely with social scientists, physicists, and mathematicians. I received my PhD in applied in Applied Mathematics from Northwestern University. 
+I am a Peters Scholar and Omidyar Fellow at the Santa Fe Institute. I use mathematical tools to uncover the simplicity behind complex phenomena of human society. Some topics of my work include crimes in cities and the polarization of political parties. My approach is to build mechanistic models from first principles and to confront them with real-world data. I work closely with social scientists, physicists, and mathematicians. I received my PhD in Applied Mathematics from Northwestern University. 
 
 Outside of academics, I enjoy dance, photography, and Aikido. I was the founding president of [NuTango](http://nutango.wix.com/nutango), Northwestern University's Argentine Tango Club. I was also the 2016-17 president of the Society for Industrial and Applied Mathematics Northwestern Chapter. 
 
@@ -20,22 +20,12 @@ If you are looking for my interactive visualization of US Congress ideology, it'
 
 
 ### News 
-* Sept 2019: [My new paper](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.100.032306) appear in *Physical Review E*, explaining why different crimes scale differently with city size, and what these differences tell us about the origin of urban scaling laws 
+* Sept 2019: New preprint, [The interpretation of urban scaling analysis in time ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3459540), appear in SSRN. We develop a theoretical framework to unify cross-sectional and temporal approaches in urban scaling. 
+* Sept 2019: New paper, [Modeling the origin of urban-output scaling  laws](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.100.032306) , appears in *Physical Review E*, explaining why different crimes scale differently with city size, and what these differences tell us about the origin of urban scaling laws 
+* July 2019: New paper, [Do two parties represent the US? Clustering analysis of US public ideology](https://www.siam.org/Portals/0/Publications/SIURO/Vol12/S01651.pdf?ver=2019-07-01-152228-507), appears in *SIAM Undergraduate Research Online*. The paper is lead by my undergraduate mentee, Louisa Lee, and answers if adding more political parties in the US would help represent the public's ideology better. 
 * July 2019: Lecture in the SFI Complexity Summer School, about applications of simple dynamical systems models in social problems 
-* Sept 2018: Start working at Santa Fe Institute
-* Aug 2018: Pass my dissertation defence! 
-* July 2018: Attend and volunteer at the International Conference on Computational Social Science (IC2S2). I chair two sessions, politics and science of science
-* June 2018: [Political clustering paper](http://arxiv.org/abs/1710.09347) updated on arXiv
-* May 2018: Organize the inaugural [NICO research jam](https://www.nico.northwestern.edu/news-events/events/?eid=533417)
-* May 2018: Judge Chicago highschools' science projects at Northwestern Highschool Project Showcase
+* May 2018: Organize the inaugural [NICO research jam](https://www.nico.northwestern.edu/news-events/events/?eid=533417) at Northwestern University
 * April 2018: Won the Grand Prize in interactive data visualization at Northwestern University's Computational Research Day, for [*Visualizing the US Congress*](http://www.vcyang.com/vis_congress/)
-* March 2018: Attend the JSMF-SFI Postdocs in Complexity Conference at the Santa Fe Institute
-* Feb 2018: Accept the offer to join the Santa Fe Institute as an Omidyar Fellow! 
-* Jan 2018: Present my work on political party polarization at Dynamics Days US
-* Dec 2017: Paper on arXiv: [The origin of urban productivity scaling laws](http://arxiv.org/abs/1712.00476). A math model that explains why bigger cities are more productive and more susceptible to crime at the same time
-* Oct 2017: Paper on arXiv:  [Do two parties represent the US? Clustering analysis of US public ideology](http://arxiv.org/abs/1710.09347). My undergraduate students, Louisa Lee and Siyu Zhang answered if adding more political parties in the US would help represent the public's ideology better
-* Oct 2017: Attend the Grace Hopper Celebration for Women in Computing
-* June - Sept 2017: Data science internship at Airbnb
 * May 2017: Won the Red Sock Award for Best Poster Presentation for my model of political polarization at SIAM Conference on Applications of Dynamical Systems, Snowbird, UT
 * April 2017: Organize the Chicago Area SIAM Student Conference. See conference photos [here](https://goo.gl/photos/qsbvGHyJ8QANQHfCA)
 
