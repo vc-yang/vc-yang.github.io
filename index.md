@@ -8,7 +8,7 @@ I am a Peters Scholar and Omidyar Fellow at the Santa Fe Institute. I use mathem
 
 Outside of academics, I enjoy dance, photography, and Aikido. I was the founding president of [NuTango](http://nutango.wix.com/nutango), Northwestern University's Argentine Tango Club. I was also the 2016-17 president of the Society for Industrial and Applied Mathematics Northwestern Chapter. 
 
-[CV (Sept 2018)](../files/VC_Yang_CV_Sept_2018.pdf)
+[CV (Oct 2019)](../files/VC_Yang_CV_Oct_2019.pdf)
 
 If you are looking for my interactive visualization of US Congress ideology, it's [here](http://www.vcyang.com/vis_congress/).
 
