@@ -4,7 +4,7 @@ title: About
 ---
 
 <img style="float: left; margin: 0px 30px 30px 0px;" src="../files/vcyang_photo_1708.jpg" width = "200"/>
-I am a Peters Scholar and Omidyar Fellow at the Santa Fe Institute. I use mathematical tools to uncover the simplicity behind complex phenomena of human society. Some topics of my work include crimes in cities and the polarization of political parties. My approach is to build mechanistic models from first principles and to confront them with real-world data. I work closely with social scientists, physicists, and mathematicians. I received my PhD in Applied Mathematics from Northwestern University. 
+I am a Peters Scholar and Omidyar Fellow at the Santa Fe Institute. My research uses mathematical tools to understand complex phenomena in human society. Some topics of my work include crimes in cities and the polarization of political parties. My approach is to build mechanistic models from first principles and to confront them with real-world data. I work closely with social scientists, physicists, and mathematicians. I received my PhD in Applied Mathematics from Northwestern University. 
 
 Outside of academics, I enjoy dance, photography, and Aikido. I was the founding president of [NuTango](http://nutango.wix.com/nutango), Northwestern University's Argentine Tango Club. I was also the 2016-17 president of the Society for Industrial and Applied Mathematics Northwestern Chapter. 
 
