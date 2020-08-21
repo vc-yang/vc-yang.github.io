@@ -4,9 +4,7 @@ title: About
 ---
 
 <img style="float: left; margin: 0px 30px 30px 0px;" src="../files/vcyang_photo_1708.jpg" width = "200"/>
-I am a Peters Scholar and Omidyar Fellow at the Santa Fe Institute. My research uses mathematical tools to understand complex phenomena in human society. Some topics of my work include crimes in cities and the polarization of political parties. My approach is to build mechanistic models from first principles and to confront them with real-world data. I work closely with social scientists, physicists, and mathematicians. I received my PhD in Applied Mathematics from Northwestern University. 
-
-Outside of academics, I enjoy dance, photography, and Aikido. I was the founding president of NuTango, Northwestern University's Argentine Tango Club. I was also the 2016-17 president of the Society for Industrial and Applied Mathematics Northwestern Chapter. 
+I am an Omidyar Fellow and Peters Hurst Scholar at the Santa Fe Institute. My research uses mathematical tools to understand complex phenomena in human society. Some topics of my work include crimes in cities and the polarization of political parties. My approach combines mechanistic models built from first principles and learning from real-world data. I received my PhD in Applied Mathematics from Northwestern University. Outside of academics, I enjoy dance and Aikido.
 
 [CV (Aug 2020)](../files/VC_Yang_CV_Aug_2020.pdf)
 
@@ -20,7 +18,7 @@ If you are looking for my interactive visualization of US Congress ideology, it'
 
 
 ### News 
-  * Aug 2020: New paper, [Why are U.S. parties so polarized? A "satisficing" dynamical model](https://epubs.siam.org/doi/ref/10.1137/19M1254246), appears in *SIAM Review*. We develop a model for the public's voting behavior following satisficing decision making, and explain the disconnect between the predominantly moderate policy positions of the U.S. public and the polarization of political parties. [[Press release]](https://santafe.edu/news-center/news/new-model-shows-how-voting-behavior-can-drive-political-parties-apart)  
+  * Aug 2020: New paper, [Why are US parties so polarized? A "satisficing" dynamical model](https://epubs.siam.org/doi/ref/10.1137/19M1254246), appears in *SIAM Review*. We develop a model for the public's voting behavior following satisficing decision making, and explain the disconnect between the predominantly moderate policy positions of the US public and the polarization of political parties. [[Press release]](https://santafe.edu/news-center/news/new-model-shows-how-voting-behavior-can-drive-political-parties-apart)  
 * July 2020: Present at IC2S2, about my work on modeling the formation of social categories. 
 * June 2020: Present at ACM Collective Intelligence conference, about my new opinion dynamics model for the effect of uninformed individuals on collective decisions. [[Video]](https://www.youtube.com/watch?v=94zotD8b7eU&feature=youtu.be)
 * April 2020: New article, [Misinformation about an outbreak like Covid-19 is important public health data](https://www.statnews.com/2020/04/07/misinformation-outbreak-is-important-public-health-data/), appears in *STAT News*. We discuss how gathering data on misinformation and human behavior in general, can be important for curbing the COVID-19 outbreak. 
