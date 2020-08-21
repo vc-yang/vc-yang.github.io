@@ -3,24 +3,25 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-Please see [Google Scholar](https://scholar.google.com/citations?hl=en&user=-dMTyjIAAAAJ&view_op=list_works&sortby=pubdate) for a most up-to-date list. Below is some of my work organized by topics. 
+Please see [Google Scholar](https://scholar.google.com/citations?hl=en&user=-dMTyjIAAAAJ&view_op=list_works&sortby=pubdate) for an up-to-date list of publications. Below are some of my work organized by topics and links to the papers. 
+
+**Social identities**
+VC Yang, T van der Does, H Olsson, Falling through the cracks: A dynamical model for the formation of in-groups and out-groups, under review [[arXiv]](https://arxiv.org/abs/1911.10419)
 
 
-**Urban scaling**
-
-* LMA Bettencourt, **VC Yang**, J Lobo, C Kempes, D Rybski, M Hamilton, 'The Interpretation of Urban Scaling Analysis in Time,' under review. [[Preprint]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3459540) 
-
-* **VC Yang** , AV Papachristos, DM Abrams (2019) 'Modeling the origin of urban-output scaling laws,' *Physical Review E*. [[Link]](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.100.032306) [[arXiv]](http://arxiv.org/abs/1712.00476)
-
-**Politics and elections**
-
-I designed and supervised an undergraduate research project to investigate whether adding more political parties in the US would help represent the public's ideology better.
+**Politic Systems**
+* **VC Yang**, DM Abrams, G Kernell, AE Motter (2020) “Why are US parties so polarize? A ‘satisficing’ dynamical model” *SIAM Review* [[Link]](https://doi.org/10.1137/19M1254246) [[arXiv]](https://arxiv.org/abs/2008.05661)
 
 * L Lee, S Zhang, **VC Yang** (2019) 'Do two parties represent the US? Clustering analysis of US public ideology survey,' _SIAM Undergraduate Research Online_. [[PDF]](https://www.siam.org/Portals/0/Publications/SIURO/Vol12/S01651.pdf?ver=2019-07-01-152228-507). 
 
-My manuscript on the polarization of political parties is in undergoing review and revision. Hopefully, it will appear here soon. 
 
-**Math applied to engineering problems**
+**Urban Scaling**
+* LMA Bettencourt, **VC Yang**, J Lobo, C Kempes, D Rybski, M Hamilton, (2020) 'The Interpretation of urban scaling analysis in time,' *Journal of the Royal Society Interface*. [[Link]](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2019.0846) [[SSRN pdf]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3459540) 
+
+* **VC Yang** , AV Papachristos, DM Abrams (2019) 'Modeling the origin of urban-output scaling laws,' *Physical Review E*. [[Link]](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.100.032306) [[arXiv]](http://arxiv.org/abs/1712.00476)
+
+
+**Math Problems in Engineering**
 
 Prior to joining Northwestern as a PhD student, I built mathematical models to solve engineering problems. The following are some of this work published in peer-reviewed journals. 
 
