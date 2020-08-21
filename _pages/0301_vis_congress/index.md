@@ -7,13 +7,11 @@ permalink: /vis_congress/
 <!--
 # Visualizing the US congress
 -->
-Published Nov 2016
+Published Nov 2016, Last updated April 2018
 
-Last updated April 2018
+This is an interactive visualization I made of the congress members' ideology positions, reduced to two dimensions, using the [DW-NOMINATE method](https://en.wikipedia.org/wiki/NOMINATE_(scaling_method)). This visualization is developed as part of the IDEAS Focus Summer School on Data Visualization at Northwestern University.
 
-This is a interactive visualization I made of the congress members' ideology positions, reduced to 2 dimensions, using the [DW-NOMINATE method](https://en.wikipedia.org/wiki/NOMINATE_(scaling_method)). This visualiztaion is developed as part of the IDEAS Focus Summer School on Data Visualization at Northwestern University.
-
-### How to use this visulaization
+### How to use this visualization
 * Each circle represents a congress member
 * The colors represent party membership
 * Hover mouse over a circle to see name and state of the congress member. 
@@ -212,13 +210,13 @@ This is a interactive visualization I made of the congress members' ideology pos
 </html>
 
 ### What are the axes? 
-According to Keith Poole and Howard Rosenthal, the creator of the DW-NOMINATE method, the 1st dimension score (horizontal axis) can be interpreted as the position on government intervention in the economy, also referred to as the 'liberal-conservative' scale. The 2nd dimension (vertical axis) can be interpreted as the position on salient issues of the day, such as slavery, civil rights, and LGBT rights. The 1st dimension explains the vast majority of differences in voting behavior. More discussion [here](https://legacy.voteview.com/dwnomin.htm).
+According to Keith Poole and Howard Rosenthal, the creator of the DW-NOMINATE method, the first dimension score (horizontal axis) can be interpreted as the position on government intervention in the economy, also referred to as the 'liberal-conservative' scale. The second dimension (vertical axis) can be interpreted as the position on salient issues of the day, such as slavery, civil rights, and LGBT rights. The 1st dimension explains the vast majority of differences in voting behavior. More discussion [here](https://legacy.voteview.com/dwnomin.htm).
 
-Please note that the DW-NOMINATE score is in nature a relative measure that does not reflect into specific policy dimensions. The axes are similar to the principal component axes. Quantifying Congress members' positions on particular policy issues is still a challenge to be tackled. 
+Please note that the DW-NOMINATE score is, in nature, a relative measure that does not reflect into specific policy dimensions. The axes are similar to the principal component axes. Quantifying Congress members' positions on particular policy issues is still a challenge to be tackled. 
 
 
 ### How are the positions calculated? 
-The DW-NOMINATE method gives Congress member's relative ideological positions through analyzing how often Congress members vote with or against each other in the roll call records. The DW-NOMINATE method is a scaling method -- it puts those with more similar voting behavior closer together, and vice versa. [Its Wikipedia page](https://en.wikipedia.org/wiki/NOMINATE_(scaling_method)) gives a good explanation of the method. 
+The DW-NOMINATE method calculates Congress members' relative ideological positions through analyzing how often Congress members vote with or against each other in the roll call records. The DW-NOMINATE method is a scaling method -- it puts those with more similar voting behavior closer together, and vice versa. [Its Wikipedia page](https://en.wikipedia.org/wiki/NOMINATE_(scaling_method)) gives a good explanation of the method. 
 
 ### More information
 The U.S. Congress members’ roll call vote records are openly available. You can explore the data set and download it from [govtrack.us](https://www.govtrack.us/). The data used in this visualization is hosted on the voteview website [here](https://legacy.voteview.com/dwnomin_joint_house_and_senate.htm). You can find my copy of the csv file, which is the input for this visualization [here](https://github.com/vc-yang/vc-yang.github.io/blob/master/files/vis_congress/congressData2.csv). This interactive visualization is developed using [D3](https://d3js.org/). If you are interested in making similar visualizations, you are welcome to download the source code of this page on [my Github](https://github.com/vc-yang/vc-yang.github.io/tree/master/_pages/0301_vis_congress).
