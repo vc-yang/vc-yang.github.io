@@ -6,7 +6,7 @@ title: About
 <img style="float: left; margin: 0px 30px 30px 0px;" src="../files/vcyang_photo_1708.jpg" width = "200"/>
 I am an Omidyar Fellow and Peters Hurst Scholar at the Santa Fe Institute. My research uses mathematical tools to understand complex phenomena in human society. Some topics of my work include crimes in cities and the polarization of political parties. My approach combines mechanistic models built from first principles and learning from real-world data. I received my PhD in Applied Mathematics from Northwestern University. Outside of academics, I enjoy dance and Aikido.
 
-[CV (Aug 2020)](../files/VC_Yang_CV_Aug_2020.pdf)
+[CV (Aug 2020)](../files/VC_Yang_CV_Aug_2020.pdf)&#124; [LinkedIn](https://www.linkedin.com/in/vcyang) &#124; [Google Scholar](https://scholar.google.com/citations?user=-dMTyjIAAAAJ&hl=en)
 
 If you are looking for my interactive visualization of US Congress ideology, it's [here](http://www.vcyang.com/vis_congress/).
 
@@ -28,5 +28,4 @@ If you are looking for my interactive visualization of US Congress ideology, it'
 * July 2019: New paper, [Do two parties represent the US? Clustering analysis of US public ideology](https://www.siam.org/Portals/0/Publications/SIURO/Vol12/S01651.pdf?ver=2019-07-01-152228-507), appears in *SIAM Undergraduate Research Online*. The paper is lead by my undergraduate mentee, Louisa Lee, and answers if adding more political parties in the US would help represent the public's ideology better. 
 * July 2019: Lecture in the SFI Complexity Summer School, about applications of simple dynamical systems models in social problems. 
 
------
-[LinkedIn](https://www.linkedin.com/in/vcyang) &#124; [Google Scholar](https://scholar.google.com/citations?user=-dMTyjIAAAAJ&hl=en)
+
