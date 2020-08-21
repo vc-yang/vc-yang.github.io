@@ -13,7 +13,6 @@ Published Dec 2016.
  </div>  
  <br />
 
-I created this flowchart for the typical mathematical modeling process that I go through, as part of a talk for undergraduate mathematics students. You can find a high quality pdf file [here](/files/Model_flowchart/math_model_flowchart.pdf). 
+I created this flowchart for my typical mathematical modeling process, as part of a talk for undergraduate mathematics students. You can find a high-quality pdf file [here](/files/Model_flowchart/math_model_flowchart.pdf). 
 
-You are welcome to share and use it, please credit this page when doing so. 
-
+You are welcome to share or use it. 
