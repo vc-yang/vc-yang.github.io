@@ -8,6 +8,7 @@ I am an Omidyar Fellow and Peters Hurst Scholar at the Santa Fe Institute. My re
 
 [CV (Aug 2020)](../files/VC_Yang_CV_Aug_2020.pdf)&#124; [Google Scholar](https://scholar.google.com/citations?user=-dMTyjIAAAAJ&hl=en) &#124; [LinkedIn](https://www.linkedin.com/in/vcyang) 
 
+
 If you are looking for my interactive visualization of US Congress ideology, it's [here](http://www.vcyang.com/vis_congress/).
 
 
