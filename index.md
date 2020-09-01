@@ -13,6 +13,7 @@ If you are looking for my interactive visualization of US Congress ideology, it'
 
 
 ### Media 
+* I interviewed with KSFR Santa Fe Public Radio about my recent model for political party polarization. [[Audio]](https://www.ksfr.org/post/sfi-led-study-asks-political-divisiveness-or-political-games)
 * I gave a talk at the [Seven Minutes of Science Symposium](http://rsg.northwestern.edu/w2017.html) about urban scaling laws and the "reasoning from first principles" approach. [[Talk Video]](https://www.youtube.com/watch?v=Xs5ewFzNSYI)
 * Northwestern News Network featured my research on urban scaling laws. [[Interview Video]](https://youtu.be/eIiNyI5sWuk?t=18m49s)
 * Northwestern University's Data Science Videos featured my work in [[Video 1]](https://youtu.be/9lh6TYon0_I). In [[Video 2]](https://youtu.be/5by2WzQVx9U), I shared my view on two types of data science.
