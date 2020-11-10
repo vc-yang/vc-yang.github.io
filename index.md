@@ -6,13 +6,14 @@ title: About
 <img style="float: left; margin: 0px 30px 30px 0px;" src="../files/vcyang_photo_1708.jpg" width = "200"/>
 I am an Omidyar Fellow and Peters Hurst Scholar at the Santa Fe Institute. My research uses mathematical tools to understand complex phenomena in human society. Some topics of my work include crimes in cities and the polarization of political parties. My approach combines mechanistic models built from first principles and learning from real-world data. I received my PhD in Applied Mathematics from Northwestern University. Outside of academics, I enjoy dance and Aikido.
 
-[CV (Aug 2020)](../files/VC_Yang_CV_Aug_2020.pdf)&#124; [Google Scholar](https://scholar.google.com/citations?user=-dMTyjIAAAAJ&hl=en) &#124; [LinkedIn](https://www.linkedin.com/in/vcyang) 
+[CV (Nov 2020)](../files/CV_Yang_2020_11.pdf)&#124; [Google Scholar](https://scholar.google.com/citations?user=-dMTyjIAAAAJ&hl=en) &#124; [LinkedIn](https://www.linkedin.com/in/vcyang) 
 
 
 If you are looking for my interactive visualization of US Congress ideology, it's [here](http://www.vcyang.com/vis_congress/).
 
 
 ### Media 
+* My "satisficing" voting model was featured in [Forbes](https://www.forbes.com/sites/kevinanderton/2020/10/27/this-is-the-reason-american-politics-are-so-polarized-infographic/?sh=266cce84187b), and in [the Wall Street Journal](https://www.wsj.com/articles/why-social-media-is-so-good-at-polarizing-us-11603105204) as part of a larger piece about sociophysics, polarization, and media manipulation.
 * I interviewed with KSFR Santa Fe Public Radio about my recent model for political party polarization. [[Audio]](https://www.ksfr.org/post/sfi-led-study-asks-political-divisiveness-or-political-games)
 * I gave a talk at the [Seven Minutes of Science Symposium](http://rsg.northwestern.edu/w2017.html) about urban scaling laws and the "reasoning from first principles" approach. [[Talk Video]](https://www.youtube.com/watch?v=Xs5ewFzNSYI)
 * Northwestern News Network featured my research on urban scaling laws. [[Interview Video]](https://youtu.be/eIiNyI5sWuk?t=18m49s)
