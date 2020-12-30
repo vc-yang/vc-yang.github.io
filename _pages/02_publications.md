@@ -6,7 +6,7 @@ permalink: /publications/
 Please see [Google Scholar](https://scholar.google.com/citations?hl=en&user=-dMTyjIAAAAJ&view_op=list_works&sortby=pubdate) for an up-to-date list of publications. Below are some of my work organized by topics and links to the papers. 
 
 **Social identities**
-VC Yang, T van der Does, H Olsson, Falling through the cracks: A dynamical model for the formation of in-groups and out-groups, under review [[arXiv]](https://arxiv.org/abs/1911.10419)
+* **VC Yang**, T van der Does, H Olsson, Falling through the cracks: A dynamical model for the formation of in-groups and out-groups, under review [[arXiv]](https://arxiv.org/abs/1911.10419)
 
 
 **Politic Systems**
