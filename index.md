@@ -13,6 +13,7 @@ If you are looking for my interactive visualization of US Congress ideology, it'
 
 
 ### Media 
+* I discussed my work on political polarization and social categories on the [Complexity Podcast](https://complexity.simplecast.com/episodes/43)
 * My "satisficing" voting model was featured in [Forbes](https://www.forbes.com/sites/kevinanderton/2020/10/27/this-is-the-reason-american-politics-are-so-polarized-infographic/?sh=266cce84187b), and in [the Wall Street Journal](https://www.wsj.com/articles/why-social-media-is-so-good-at-polarizing-us-11603105204) as part of a larger piece about sociophysics, polarization, and media manipulation.
 * I interviewed with KSFR Santa Fe Public Radio about my recent model for political party polarization. [[Audio]](https://www.ksfr.org/post/sfi-led-study-asks-political-divisiveness-or-political-games)
 * I gave a talk at the [Seven Minutes of Science Symposium](http://rsg.northwestern.edu/w2017.html) about urban scaling laws and the "reasoning from first principles" approach. [[Talk Video]](https://www.youtube.com/watch?v=Xs5ewFzNSYI)
@@ -23,7 +24,7 @@ If you are looking for my interactive visualization of US Congress ideology, it'
 ### News 
 * Mar 2020: Revised preprint, [Falling Through the Cracks: Modeling the Formation of Social Category
  Boundaries](http://arxiv.org/abs/1911.10419), appears on arXiv. We develop a dynamical systems model to predict boundaries of social categories, and how the middle of the spectrum fall through the cracks of categorization. 
-  * Aug 2020: New paper, [Why are US parties so polarized? A "satisficing" dynamical model](https://epubs.siam.org/doi/ref/10.1137/19M1254246), appears in *SIAM Review*. We develop a model for the public's voting behavior following satisficing decision making, and explain the disconnect between the predominantly moderate policy positions of the US public and the polarization of political parties. [[Press release]](https://santafe.edu/news-center/news/new-model-shows-how-voting-behavior-can-drive-political-parties-apart)  
+ * Aug 2020: New paper, [Why are US parties so polarized? A "satisficing" dynamical model](https://epubs.siam.org/doi/ref/10.1137/19M1254246), appears in *SIAM Review*. We develop a model for the public's voting behavior following satisficing decision making, and explain the disconnect between the predominantly moderate policy positions of the US public and the polarization of political parties. [[Press release]](https://santafe.edu/news-center/news/new-model-shows-how-voting-behavior-can-drive-political-parties-apart)  
 * July 2020: Present at IC2S2, about my work on modeling the formation of social categories. 
 * June 2020: Present at ACM Collective Intelligence conference, about my new opinion dynamics model for the effect of uninformed individuals on collective decisions. [[Video]](https://www.youtube.com/watch?v=94zotD8b7eU&feature=youtu.be)
 * April 2020: New article, [Misinformation about an outbreak like Covid-19 is important public health data](https://www.statnews.com/2020/04/07/misinformation-outbreak-is-important-public-health-data/), appears in *STAT News*. We discuss how gathering data on misinformation and human behavior in general, can be important for curbing the COVID-19 outbreak. 
