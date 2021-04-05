@@ -6,7 +6,7 @@ title: About
 <img style="float: left; margin: 0px 30px 30px 0px;" src="../files/vcyang_photo_1708.jpg" width = "200"/>
 I am an Omidyar Fellow and Peters Hurst Scholar at the Santa Fe Institute. My research uses mathematical tools to understand complex phenomena in human society. Some topics of my work include crimes in cities and the polarization of political parties. My approach combines mechanistic models built from first principles and learning from real-world data. I received my PhD in Applied Mathematics from Northwestern University. Outside of academics, I enjoy dance and Aikido.
 
-[CV (March 2021)](../files/CV_Yang_2021_03.pdf)&#124; [Google Scholar](https://scholar.google.com/citations?user=-dMTyjIAAAAJ&hl=en) &#124; [LinkedIn](https://www.linkedin.com/in/vcyang) 
+[CV (April 2021)](../files/CV_Yang_2020_04.pdf)&#124; [Google Scholar](https://scholar.google.com/citations?user=-dMTyjIAAAAJ&hl=en) &#124; [LinkedIn](https://www.linkedin.com/in/vcyang) 
 
 
 If you are looking for my interactive visualization of US Congress ideology, it's [here](http://www.vcyang.com/vis_congress/).
@@ -22,6 +22,7 @@ If you are looking for my interactive visualization of US Congress ideology, it'
 
 
 ### News 
+* April 2021: New preprint, [When do Social Learners Affect Collective Performance Negatively? The Predictions of a Dynamical-System Model](http://arxiv.org/abs/2104.00770) appears on arXiv. We develop a general mathematical framework to model how the interaction of complex social and cognitive factors manifests in collective decision outcomes. Our model predicts a critical threshold of social learners (those who follow others instead of evaluating merit of the options on their own), above which the system destabilizes, and either option can prevail regardless of merit.  
 * Mar 2021: New paper, [Falling through the cracks: Modeling the formation of social category boundaries](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247562) appears on PLOS ONE. We predict boundaries between us and them on a continuum attribute using a dynamical system model. We find middle of the spectrum fall through the cracks of categorization, and validate with data on political independents. 
 * Mar 2021: New preprint, [Scaling of Urban Income Inequality in the United States](https://arxiv.org/abs/2102.13150) appears on arXiv. With students of the Undergraduate Complexity Research program, we analyze income distributions of hundreds of US cities. We show that income in the least wealthy 10% scales close to linearly with city population, while income in the most wealthy decile scale with a significantly superlinear exponent. Our results suggest the benefits of larger cities are increasingly unequally distributed with city size. 
  * Aug 2020: New paper, [Why are US parties so polarized? A "satisficing" dynamical model](https://epubs.siam.org/doi/ref/10.1137/19M1254246), appears in *SIAM Review*. We develop a model for the public's voting behavior following satisficing decision making, and explain the disconnect between the predominantly moderate policy positions of the US public and the polarization of political parties. [[Press release]](https://santafe.edu/news-center/news/new-model-shows-how-voting-behavior-can-drive-political-parties-apart) [[Animated summary of paper]](https://youtu.be/0a-jALVP1bs)
