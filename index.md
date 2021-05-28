@@ -22,6 +22,7 @@ If you are looking for my interactive visualization of US Congress ideology, it'
 
 
 ### News 
+* May 2021: Present my work on how social learners affect collective decisions in SIAM Conference on Dynamical Systems. [SIAM New's coverage](https://sinews.siam.org/Details-Page/social-learners-impact-outcome-of-group-decision-making) of my presentation. 
 * April 2021: [Big Think](https://bigthink.com/surprising-science/middle-excluded-politics) gives a concise and eloquent report on my recent "Falling through the cracks" paper. 
 * April 2021: New preprint, [When do social learners affect collective performance negatively? The predictions of a dynamical-system model](http://arxiv.org/abs/2104.00770) appears on arXiv. We develop a general mathematical framework to model how the interaction of complex social and cognitive factors manifests in collective decision outcomes. Our model predicts a critical threshold of social learners (those who follow others instead of evaluating merit of the options on their own), above which the system destabilizes, and either option can prevail regardless of merit.  
 * Mar 2021: New paper, [Falling through the cracks: Modeling the formation of social category boundaries](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247562) appears on PLOS ONE. We predict boundaries between us and them on a continuum attribute using a dynamical system model. We find middle of the spectrum fall through the cracks of categorization, and validate with data on political independents. 
