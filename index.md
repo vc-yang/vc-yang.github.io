@@ -14,7 +14,7 @@ If you are looking for my interactive visualization of US Congress ideology, it'
 
 ### Media 
 * I discussed my work on political polarization and social categories on the [Complexity Podcast](https://complexity.simplecast.com/episodes/43)
-* My "satisficing" voting model was featured in [Forbes](https://www.forbes.com/sites/kevinanderton/2020/10/27/this-is-the-reason-american-politics-are-so-polarized-infographic/?sh=266cce84187b), and in [the Wall Street Journal](https://www.wsj.com/articles/why-social-media-is-so-good-at-polarizing-us-11603105204) as part of a larger piece about sociophysics, polarization, and media manipulation.
+* My "satisficing" voting model was featured at length in [Forbes](https://www.forbes.com/sites/kevinanderton/2020/10/27/this-is-the-reason-american-politics-are-so-polarized-infographic/?sh=266cce84187b); and in [the Wall Street Journal](https://www.wsj.com/articles/why-social-media-is-so-good-at-polarizing-us-11603105204) as part of a larger piece about sociophysics, polarization, and media manipulation.
 * I interviewed with KSFR Santa Fe Public Radio about my recent model for political party polarization. [[Audio]](https://www.ksfr.org/post/sfi-led-study-asks-political-divisiveness-or-political-games)
 * I gave a talk at the [Seven Minutes of Science Symposium](http://rsg.northwestern.edu/w2017.html) about urban scaling laws and the "reasoning from first principles" approach. [[Talk Video]](https://www.youtube.com/watch?v=Xs5ewFzNSYI)
 * Northwestern News Network featured my research on urban scaling laws. [[Interview Video]](https://youtu.be/eIiNyI5sWuk?t=18m49s)
