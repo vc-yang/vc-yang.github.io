@@ -28,8 +28,7 @@ h2 {
 a,
 a:visited {
   color: #425469;
-  text-decoration: underline;
-  font-weight: bold; }
+  text-decoration: underline;}
 
 a:hover {
   color: #19CCAA;
