@@ -14,15 +14,13 @@ If you are looking for my interactive visualization of US Congress ideology, it'
 
 ### Media coverage of research 
 * Sept 2021: [PNAS News Feature](https://www.pnas.org/content/118/37/e2114484118.full) quotes my interview on modeling political party polarization. 
-* May 2021: [SIAM News](https://sinews.siam.org/Details-Page/social-learners-impact-outcome-of-group-decision-making) reports on my work on social learners and collective decisions. (2021)
-* April 2021: [Big Think](https://bigthink.com/surprising-science/middle-excluded-politics) gives a concise and eloquent report on my recent "Falling through the cracks" paper. 
+* May 2021: [SIAM News](https://sinews.siam.org/Details-Page/social-learners-impact-outcome-of-group-decision-making) reports on my work on how social learners affect collective decisions. 
+* April 2021: [Big Think](https://bigthink.com/surprising-science/middle-excluded-politics) gives a concise and eloquent report on my "Falling through the cracks" paper. 
 * Oct 2020: [Forbes](https://www.forbes.com/sites/kevinanderton/2020/10/27/this-is-the-reason-american-politics-are-so-polarized-infographic/?sh=266cce84187b) discusses my "satisficing" voting model at length. 
 * Oct 2020: [Wall Street Journal](https://www.wsj.com/articles/why-social-media-is-so-good-at-polarizing-us-11603105204) reports on my work on political party polarization as part of a larger piece about sociophysics, polarization, and media manipulation.
-* Sept 2020: I discussed my work on political polarization and social categories on the [Complexity Podcast](https://complexity.simplecast.com/episodes/43).
-* Sept 2020: I interviewed with KSFR Santa Fe Public Radio about my recent model for political party polarization. [[Audio]](https://www.ksfr.org/post/sfi-led-study-asks-political-divisiveness-or-political-games)
-* I gave a talk at the [Seven Minutes of Science Symposium](http://rsg.northwestern.edu/w2017.html) about urban scaling laws and the "reasoning from first principles" approach. [[Talk Video]](https://www.youtube.com/watch?v=Xs5ewFzNSYI)
-* Northwestern News Network featured my research on urban scaling laws. [[Interview Video]](https://youtu.be/eIiNyI5sWuk?t=18m49s)
-* Northwestern University's Data Science Videos featured my work in [[Video 1]](https://youtu.be/9lh6TYon0_I). In [[Video 2]](https://youtu.be/5by2WzQVx9U), I shared my view on two types of data science.
+* Sept 2020: [Complexity Podcast](https://complexity.simplecast.com/episodes/43) interviews me about my work on political polarization and social categories. 
+* Sept 2020: [KSFR Radio](https://www.ksfr.org/post/sfi-led-study-asks-political-divisiveness-or-political-games) interviewes about political party polarization)
+* 2017: [Northwestern News Network](https://youtu.be/eIiNyI5sWuk?t=18m49s) features my research on urban scaling laws.
 
 
 ### News 
