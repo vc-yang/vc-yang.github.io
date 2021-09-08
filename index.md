@@ -19,7 +19,7 @@ If you are looking for my interactive visualization of US Congress ideology, it'
 * Oct 2020: [Forbes](https://www.forbes.com/sites/kevinanderton/2020/10/27/this-is-the-reason-american-politics-are-so-polarized-infographic/?sh=266cce84187b) discusses my "satisficing" voting model at length. 
 * Oct 2020: [Wall Street Journal](https://www.wsj.com/articles/why-social-media-is-so-good-at-polarizing-us-11603105204) reports on my work on political party polarization as part of a larger piece about sociophysics, polarization, and media manipulation.
 * Sept 2020: [Complexity Podcast](https://complexity.simplecast.com/episodes/43) interviews me about my work on political polarization and social categories. 
-* Sept 2020: [KSFR Radio](https://www.ksfr.org/post/sfi-led-study-asks-political-divisiveness-or-political-games) interviewes about political party polarization)
+* Sept 2020: [KSFR Radio](https://www.ksfr.org/post/sfi-led-study-asks-political-divisiveness-or-political-games) interviewes about political party polarization.
 * 2017: [Northwestern News Network](https://youtu.be/eIiNyI5sWuk?t=18m49s) features my research on urban scaling laws.
 
 
