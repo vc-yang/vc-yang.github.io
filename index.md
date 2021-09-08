@@ -6,7 +6,7 @@ title: About
 <img style="float: left; margin: 0px 30px 30px 0px;" src="../files/vcyang_photo_1708.jpg" width = "200"/>
 I am an Omidyar Fellow and Peters Hurst Scholar at the Santa Fe Institute. My research uses mathematical tools to understand complex phenomena in human society. Some topics of my work include crimes in cities and the polarization of political parties. My approach combines mechanistic models built from first principles and learning from real-world data. I received my PhD in Applied Mathematics from Northwestern University. Outside of academics, I enjoy dance and Aikido.
 
-[CV (Aug 2021)](../files/VC_Yang_CV_2021_08.pdf)&#124; [Google Scholar](https://scholar.google.com/citations?user=-dMTyjIAAAAJ&hl=en) &#124; [LinkedIn](https://www.linkedin.com/in/vcyang) 
+[CV (Aug 2021)](../files/VC_Yang_CV_2021_08.pdf)&#124; [Google Scholar](https://scholar.google.com/citations?user=-dMTyjIAAAAJ&hl=en) &#124; [LinkedIn](https://www.linkedin.com/in/vcyang) &#124; [Twitter](https://twitter.com/VickyCYang)
 
 
 If you are looking for my interactive visualization of US Congress ideology, it's [here](http://www.vcyang.com/vis_congress/).
