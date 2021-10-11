@@ -4,9 +4,9 @@ title: About
 ---
 
 <img style="float: left; margin: 0px 30px 30px 0px;" src="../files/vcyang_photo_1708.jpg" width = "200"/>
-I am a fellow at the [Santa Fe Institute](https://www.santafe.edu/), conducting independent research. My work uses mathematical tools to understand complex phenomena in human society, such as collective decision-making and the polarization of political parties. My approach combines mechanistic models built from psychological first principles and learning from real-world data. I received my PhD in Applied Mathematics from Northwestern University in 2018. Outside of academics, I enjoy dance and Aikido.
+I am a fellow at the [Santa Fe Institute](https://www.santafe.edu/), conducting independent research. My work uses mathematical tools to understand complex phenomena in collective human behavior, such as collective decision-making and the polarization of political parties. My approach combines mechanistic models built from psychological first principles and learning from real-world data. I received my PhD in Applied Mathematics from Northwestern University in 2018. Outside of academics, I enjoy dance and Aikido.
 
-[CV (Sept 2021)](../files/CV_Yang_2021_09.pdf)&#124; [Google Scholar](https://scholar.google.com/citations?user=-dMTyjIAAAAJ&hl=en) &#124; [LinkedIn](https://www.linkedin.com/in/vcyang) &#124; [Twitter](https://twitter.com/VickyCYang)
+[CV (Oct 2021)](../files/CV_Yang_Oct_2020.pdf.pdf)&#124; [Google Scholar](https://scholar.google.com/citations?user=-dMTyjIAAAAJ&hl=en) &#124; [LinkedIn](https://www.linkedin.com/in/vcyang) &#124; [Twitter](https://twitter.com/VickyCYang)
 
 
 If you are looking for my interactive visualization of US Congress ideology, it's [here](http://www.vcyang.com/vis_congress/).
