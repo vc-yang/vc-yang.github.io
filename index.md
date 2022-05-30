@@ -13,6 +13,7 @@ If you are looking for my interactive visualization of US Congress ideology, it'
 
 
 ### Media coverage of research 
+* Jan 2022: [Nautilus](https://nautil.us/what-makes-group-decisions-go-wrong-and-right-13408/) reports on my social learner and collective decision paper. 
 * Sept 2021: [PNAS News Feature](https://www.pnas.org/content/118/37/e2114484118.full) quotes my interview on modeling political party polarization. 
 * May 2021: [SIAM News](https://sinews.siam.org/Details-Page/social-learners-impact-outcome-of-group-decision-making) reports on my work on how social learners affect collective decisions. 
 * April 2021: [Big Think](https://bigthink.com/surprising-science/middle-excluded-politics) gives a concise and eloquent report on my "Falling through the cracks" paper. 
