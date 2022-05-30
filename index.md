@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<img style="float: left; margin: 0px 30px 30px 0px;" src="../files/VickyPhoto_2018.jpg" width = "250"/>
+<img style="float: left; margin: 0px 30px 30px 0px;" src="../files/Headshot 2022_1_cropped.jpg" width = "250"/>
 I am a fellow at the [Santa Fe Institute](https://www.santafe.edu/), conducting independent research. My work uses mathematical tools to understand complex phenomena in collective human behavior, such as collective decision-making and the polarization of political parties. My approach combines mechanistic models built from psychological first principles and learning from real-world data. I will be joining MIT's Sloan School of Management as an Assistant Professor in July 2022. I received my PhD in Applied Mathematics from Northwestern University. 
 
 [CV (Jan 2022)](../files/VC_Yang_CV_Jan_2022)&#124; [Google Scholar](https://scholar.google.com/citations?user=-dMTyjIAAAAJ&hl=en) &#124; [LinkedIn](https://www.linkedin.com/in/vcyang) &#124; [Twitter](https://twitter.com/VickyCYang)
