@@ -12,7 +12,7 @@ I am a fellow at the [Santa Fe Institute](https://www.santafe.edu/), conducting 
 If you are looking for my interactive visualization of US Congress ideology, it's [here](http://www.vcyang.com/vis_congress/).
 
 
-### Media coverage of research 
+### Media Coverage of Research 
 * Jan 2022: [Nautilus](https://nautil.us/what-makes-group-decisions-go-wrong-and-right-13408/) reports on my social learner and collective decision paper. 
 * Sept 2021: [PNAS News Feature](https://www.pnas.org/content/118/37/e2114484118.full) quotes my interview on modeling political party polarization. 
 * May 2021: [SIAM News](https://sinews.siam.org/Details-Page/social-learners-impact-outcome-of-group-decision-making) reports on my work on how social learners affect collective decisions. 
@@ -24,7 +24,7 @@ If you are looking for my interactive visualization of US Congress ideology, it'
 * 2017: [Northwestern News Network](https://youtu.be/eIiNyI5sWuk?t=18m49s) features my research on urban scaling laws.
 
 
-### News 
+### New Publication Announcements
 * May 2022: New pre-print perspective article, [Collective Intelligence as Infrastructure for Reducing Broad Global Catastrophic Risks](https://arxiv.org/abs/2205.03300), appears in *arXiv*. We discuss how collective intelligence can be useful for shoring up our global catastrophic risk infrastructure.
 * Aug 2021: New paper, [Dynamical system model predicts when social learners impair collective performance](https://www.pnas.org/content/118/35/e2106292118) appears in *PNAS*. We develop a general framework for how interaction of multiple social & psychological factors affects collective decisions. We predict a critical threshold for the proportion of those who follow others, above which an option may prevail regardless of merit. [[Paper summary video]](https://youtu.be/l8-0UuS5u84)
 * Aug 2021: New paper, [Scaling of urban income inequality in the USA](https://doi.org/10.1098/rsif.2021.0223) appears in *Journal of the Royal Society Interface*. With three former undergraduate research students, we analyze income distribution data in US cities in the urban scaling framework, and show that the poorest individuals do experience the increased return to scale for income. Our work suggest heterogeneous models are needed to form a more coherent understanding of urban scaling. [[Non-paywall full text]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3907455)
