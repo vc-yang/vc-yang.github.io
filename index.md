@@ -6,7 +6,7 @@ title: About
 <img style="float: left; margin: 0px 30px 30px 0px;" src="../files/Headshot 2022_1_cropped.jpg" width = "250"/>
 I am an Assistant Professor in System Dynamics at MIT's Sloan School of Management. My work uses quantitative behavioral models, assisted by the analysis of data, to study collective human behavior on a broad range of organization levels, from teams to cities. Recent research applications include collective decision-making, political polarization, scaling laws in cities, and bureaucracy in organizations. I received my PhD in Applied Mathematics from Northwestern University and was a fellow at the Santa Fe Institute. 
 
-[CV (July 2022)](../files/CV_Yang_2022_07.pdf)&#124; [Google Scholar](https://scholar.google.com/citations?user=-dMTyjIAAAAJ&hl=en) &#124; [LinkedIn](https://www.linkedin.com/in/vcyang) &#124; [Twitter](https://twitter.com/VickyCYang)
+[CV (Jan 2023)](../files/CV_Yang_2023_01.pdf)&#124; [Google Scholar](https://scholar.google.com/citations?user=-dMTyjIAAAAJ&hl=en) &#124; [LinkedIn](https://www.linkedin.com/in/vcyang) &#124; [Twitter](https://twitter.com/VickyCYang)
 
 
 If you are looking for my interactive visualization of US Congress ideology, it's [here](http://www.vcyang.com/vis_congress/).
