@@ -5,10 +5,9 @@ permalink: /contact/
 ---
 Vicky Chuqiao Yang  
 
-Santa Fe Institute
+MIT Sloan School of Management
+E62-442
+100 Main St, Cambridge, MA 02142
 
-1399 Hyde Park Rd
 
-Santa Fe, NM 87501
-
-[Email Address](mailto:vcy@santafe.edu)
+[Email Address](mailto:vcyang@mit.edu)
