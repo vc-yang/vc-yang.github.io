@@ -8,7 +8,7 @@ I am an Assistant Professor in System Dynamics at MIT Sloan School of Management
 
 Please see my [Google Scholar](https://scholar.google.com/citations?user=-dMTyjIAAAAJ&hl=en) for an up-to-date list of publications, and [Twitter](https://twitter.com/VickyCYang) for news and announcements. 
 
-[CV (Sept 2023)](../files/CV_Yang_2023_09.pdf)&#124; [LinkedIn](https://www.linkedin.com/in/vcyang)
+[CV (Aug 2024)](../files/CV_Yang_2024_08.pdf)&#124; [LinkedIn](https://www.linkedin.com/in/vcyang)
 
 
 If you are looking for my interactive visualization of US Congress ideology, it's [here](http://www.vcyang.com/vis_congress/).
