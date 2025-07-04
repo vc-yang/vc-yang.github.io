@@ -12,7 +12,7 @@ I earned a PhD in Engineering Sciences and Applied Mathematics from Northwestern
 
 Please see my [Google Scholar](https://scholar.google.com/citations?user=-dMTyjIAAAAJ&hl=en) for an up-to-date list of publications, and [Twitter](https://twitter.com/VickyCYang) for news and announcements. 
 
-[CV (Jan 2025)](../files/CV_Yang_2025_06.pdf)&#124; [LinkedIn](https://www.linkedin.com/in/vcyang)
+[CV (June 2025)](../files/CV_Yang_2025_06.pdf)&#124; [LinkedIn](https://www.linkedin.com/in/vcyang)
 
 
 
